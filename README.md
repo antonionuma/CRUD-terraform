@@ -1,7 +1,10 @@
 # CRUD-terraform
 CRUD terraform example on AWS:
 
-https://catalog.us-east-1.prod.workshops.aws/workshops/2c8321cb-812c-45a9-927d-206eea3a500f/en-US/030-create-an-http-api
+https://catalog.us-east-1.prod.workshops.aws/workshops/2c8321cb-812c-45a9-927d-206eea3a500f/en-US/000-gettingstarted
+
+![image](https://user-images.githubusercontent.com/107002017/229926402-171a3afb-d822-46c1-9a51-30b13636b72e.png)
+
 
 Steps to deploy
 1. Clone repository
